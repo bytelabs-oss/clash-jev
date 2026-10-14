@@ -21,7 +21,7 @@ How it works:
 
 Nothing is trained to play. The bot uses no reinforcement learning and no simulator.
 
-The [engineering write-up](https://bytelabs-oss.github.io/clash-jev/) has the architecture diagram and
+The [engineering write-up](https://desmond-atikpui.vercel.app/projects/clash-jev) has the architecture diagram and
 covers each stage with the technical choices behind it.
 
 ```python
